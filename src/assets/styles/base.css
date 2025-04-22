@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Estedad-Bold';
+    src: url('../fonts/Estedad-Bold.woff2') format('woff2'),
+        url('../fonts/Estedad-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Estedad-Light';
+    src: url('../fonts/Estedad-Light.woff2') format('woff2'),
+        url('../fonts/Estedad-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Estedad-Medium';
+    src: url('../fonts/Estedad-Medium.woff2') format('woff2'),
+        url('../fonts/Estedad-Medium.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Estedad-Medium', sans-serif;
+    direction: rtl;
+}
